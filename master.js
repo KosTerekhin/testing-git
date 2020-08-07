@@ -6,7 +6,7 @@ class MathFnc {
 	}
 
 	deduct(a, b) {
-		return a - b;
+		return b - a;
 	}
 }
 
